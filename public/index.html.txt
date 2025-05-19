@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Freelance IT Services</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <main>
+    <h1>Welcome to My Freelance IT Services</h1>
+    <p>Your one-stop solution for all IT needs. Professional, reliable, and tailored to you.</p>
+  </main>
+</body>
+</html>
